@@ -30,11 +30,6 @@ Each test case includes:
 - UI Validation
 - Requirement Understanding
 
-# Sample Screenshots
-<img src="https://github.com/user-attachments/assets/508f5a16-294e-4ec4-b4d2-b512eefbda85" width="600" height="300"/>
-<img src="https://github.com/user-attachments/assets/fc3ec55e-8908-496f-b8f8-fccc43d91d57" width="600" height="300" />
-<img src="https://github.com/user-attachments/assets/fa1e498e-da9d-4225-a8e6-57e8965e5d84" width="500" height="400" />
-
 # ⭐ Author
 **Jay Kumar Prajapati**<br>
 SDET Intern | Software QA Enthusiast
